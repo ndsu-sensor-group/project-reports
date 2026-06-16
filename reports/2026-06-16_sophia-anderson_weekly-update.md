@@ -53,7 +53,6 @@ Conclusion: The ADXL375 is a suitable sensor for transportation and shipment mon
 
 
 Next Steps
-
 BLE Repository (Raspberry Pi Pico W)
 
 Documentation is currently being created for the Bluetooth Low Energy (BLE) system implemented on the Raspberry Pi Pico W. A Standard Operating Procedure (SOP) will be included within the repository.
